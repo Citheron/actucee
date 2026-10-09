@@ -1,0 +1,23 @@
+# Actu CEE
+
+> La plateforme unique qui regroupe les informations sur le dispositif CEE. Site d'information indépendant sur les certificats d'économies d'énergie (CEE) en France : prix du registre Emmy, primes pour les entreprises, fiches, textes officiels, programmes. Données arrêtées le 9 octobre 2026.
+
+## Rubriques
+
+- [Actu CEE : La plateforme unique qui regroupe les informations sur le dispositif CEE](https://www.actucee.fr/) : Primes CEE des entreprises et des collectivités, prix des CEE (cotations Emmy), fiches, Journal officiel, programmes, PLF 2027 : tout le dispositif CEE.
+- [Prix des CEE : cotations Emmy, cours et évolution](https://www.actucee.fr/prix-cee.html) : Prix des CEE en septembre 2026 : spot classique 8,75 €/MWhc, précarité 17,22 €/MWhc. Cotations Emmy depuis 2023, prix à terme, volumes et évolution.
+- [Primes CEE des entreprises et des collectivités : simulateur et barèmes](https://www.actucee.fr/primes-cee.html) : Estimez la prime CEE de 56 opérations d'entreprise et de collectivité : montant par kW, par m² ou par véhicule, bonifications, prix Emmy moins 20 à 25 %.
+- [Fiches CEE : le catalogue des opérations standardisées](https://www.actucee.fr/fiches-cee.html) : Les 218 fiches d'opérations standardisées CEE en vigueur, par secteur : version, PDF officiel, arrêtés qui les ont modifiées depuis 2023 et bonifications.
+- [CEE au Journal officiel : arrêtés, décrets et lois](https://www.actucee.fr/journal-officiel-cee.html) : 103 arrêtés, décrets et lois sur les CEE publiés au Journal officiel depuis 2023 : fiches, bonifications, programmes, contrôles. Résumé et lien officiel.
+- [Coups de pouce et bonifications CEE](https://www.actucee.fr/bonifications-coups-de-pouce-cee.html) : 8 Coups de pouce et bonifications CEE en vigueur : chauffage, tertiaire et collectif, rénovation d'ampleur, véhicules électriques. Coefficients et dates.
+- [Programmes CEE et appels à financeurs](https://www.actucee.fr/programmes-cee.html) : Les 34 programmes CEE en cours : porteurs, budgets (2 373 M€), volumes, financeurs et dates de fin. Appels à financeurs depuis 2023 et prix.
+- [PLF 2027 : les CEE dans le budget](https://www.actucee.fr/plf-2027-cee.html) : PLF 2027 : ce que le projet de loi de finances et ses annexes disent des CEE et de MaPrimeRénov', et les 10 amendements relevés à l'Assemblée nationale.
+- [Flash infos et lettres d'information CEE](https://www.actucee.fr/flash-info-lettres-cee.html) : Les 69 flash infos et 41 lettres d'information CEE publiés par la DGEC depuis 2023 : prix à terme, fiches, appels à financeurs, statistiques. Résumés et PDF.
+- [Presse et information sur les CEE](https://www.actucee.fr/presse-cee.html) : 97 articles, rapports, tribunes et prises de position sur les certificats d'économies d'énergie depuis 2023, résumés et liés à leur source.
+- [Agenda du dispositif CEE](https://www.actucee.fr/agenda-cee.html) : Les prochaines échéances du dispositif CEE : entrées en vigueur, fins de bonification, appels à financeurs, étapes du budget et calendrier parlementaire.
+- [Contrôles et sanctions du dispositif CEE](https://www.actucee.fr/controles-sanctions-cee.html) : Lutte contre la fraude aux CEE : 16 textes, alertes de la DGEC, sanctions et bilans chiffrés depuis 2023, avec leurs sources officielles.
+- [Certificats d'économies d'énergie : définition et fonctionnement](https://www.actucee.fr/cee-definition-fonctionnement.html) : Comprendre les certificats d'économies d'énergie : obligés, délégataires, kWh cumac, fiches, programmes et obligations de la 6e période (1 050 TWhc par an).
+- [Lexique des CEE](https://www.actucee.fr/lexique-cee.html) : Les termes des certificats d'économies d'énergie expliqués simplement : Appel à financeurs, CEE précarité, Coup de pouce, Délégataire et 8 autres termes.
+- [Questions fréquentes sur les CEE](https://www.actucee.fr/faq-cee.html) : Prix du CEE, calcul d'une prime, obligés, délégataires, kWh cumac, Coups de pouce, sixième période : les réponses aux questions fréquentes sur les CEE.
+- [À propos de Actu CEE](https://www.actucee.fr/a-propos.html) : Actu CEE rassemble les informations publiques sur les certificats d'économies d'énergie. Sources officielles, méthode et mises à jour.
+- [Plan du site](https://www.actucee.fr/plan-du-site.html) : Toutes les pages de Actu CEE : prix des CEE par mois, primes par opération, fiches, programmes et textes du Journal officiel.
